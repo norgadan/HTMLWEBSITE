@@ -58,6 +58,14 @@ button :hover {
     color: #8808f8;
 }
  
+main section h2{
+    color: #8808f8;
+}
+
+div {
+    background-color: #b8c902;
+}
+
 footer {
     background-color: #700161;
     text-align: center;
@@ -66,8 +74,5 @@ footer {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
 
-}
-main section h2{
-    color: #8808f8;
 }
 
