@@ -64,6 +64,8 @@ main section h2{
 
 div {
     background-color: #b8c902;
+    text-align: center;
+    width: 100%;
 }
 
 footer {
